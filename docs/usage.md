@@ -2,7 +2,7 @@
 
 # 一、商品链接
 
-[Hudi数据湖架构](https://marketplace.huaweicloud.com)
+[Hudi数据湖架构](https://marketplace.huaweicloud.com/hidden/contents/483d0c10-989a-438e-bc26-91fd9caa9d14#productid=OFFI1154255303236370432)
 
 # 二、商品说明
 

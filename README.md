@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[Hudi数据湖架构](https://marketplace.huaweicloud.com/)
+- 镜像商品：[Hudi数据湖架构](https://marketplace.huaweicloud.com/hidden/contents/483d0c10-989a-438e-bc26-91fd9caa9d14#productid=OFFI1154255303236370432)
 - 镜像规格：Hudi1.0.0-kunpeng-v1.0
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
 - CPU架构：Kunpeng-ARM
