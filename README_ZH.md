@@ -27,7 +27,7 @@
 ![](./images/img001.png)
 
 
-本项目提供的开源镜像商品 [**Hudi数据湖架构**](https://marketplace.huaweicloud.com)，已预先安装 Hudi 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**Hudi数据湖架构**](https://marketplace.huaweicloud.com/hidden/contents/483d0c10-989a-438e-bc26-91fd9caa9d14#productid=OFFI1154255303236370432)，已预先安装 Hudi 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2GHz 或更高
